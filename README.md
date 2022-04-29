@@ -1,5 +1,6 @@
-### Hey <img src=https://github.com/MartinHeinz/MartinHeinz/blob/87592a64404c2fdf98772f6844f4872986a581c7/wave.gif width="30px">
-
+### Hey !! <img src=https://github.com/MartinHeinz/MartinHeinz/blob/87592a64404c2fdf98772f6844f4872986a581c7/wave.gif width="30px">   I am Nitesh Pandey !
+---
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC31sz4wzeH-6M5aaqEE-hyQ?label=people%20subscribed%20to%20my%20channel&style=social)   ![Twitter Follow](https://img.shields.io/twitter/follow/niteshpandeyof6?label=People%20following%20me%20on%20twitter&style=social)  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC31sz4wzeH-6M5aaqEE-hyQ?label=Total%20views%20on%20my%20channel&style=social) ![](https://komarev.com/ghpvc/?username=niteshpandeyofficial)
 <!--
 **niteshpandeyofficial/niteshpandeyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
