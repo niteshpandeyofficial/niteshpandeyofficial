@@ -3,7 +3,6 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC31sz4wzeH-6M5aaqEE-hyQ?label=people%20subscribed%20to%20my%20channel&style=social)   ![Twitter Follow](https://img.shields.io/twitter/follow/niteshpandeyof6?label=People%20following%20me%20on%20twitter&style=social)  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC31sz4wzeH-6M5aaqEE-hyQ?label=Total%20views%20on%20my%20channel&style=social)
 
 I’m interested in building Machine Learning models for Real World use cases.
-
 ---
 :toolbox: Toolbox
 
@@ -35,8 +34,17 @@ I’m interested in building Machine Learning models for Real World use cases.
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... More Blog Atricles](https://cracklogic.com/)
- 
+
  ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/niteshpandeyof6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niteshpandey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niteshpandeyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niteshpandeyofficial" height="30" width="40" /></a>
+<a href="https://fb.com/niteshpandeyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niteshpandeyofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/niteshpandeyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niteshpandeyofficial" height="30" width="40" /></a>
+</p>
+---
+
  ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshpandeyofficial&hide=java,html,css,shell,Procfile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
