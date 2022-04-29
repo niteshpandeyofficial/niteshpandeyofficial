@@ -27,6 +27,11 @@ I’m interested in building Machine Learning models for Real World use cases.
 📙 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Write a shell script to calculate the sum from a given CSV file](https://cracklogic.com/write-a-shell-script-to-calculate-the-sum-from-a-given-csv-file/?utm_source=rss&utm_medium=rss&utm_campaign=write-a-shell-script-to-calculate-the-sum-from-a-given-csv-file)
+- [Find the existing values of the given text file and check if those records present or not in the Oracle database table](https://cracklogic.com/finding-the-existing-values-within-the-text-file-and-check-if-those-records-present-or-not-in-the-oracle-database-table/?utm_source=rss&utm_medium=rss&utm_campaign=finding-the-existing-values-within-the-text-file-and-check-if-those-records-present-or-not-in-the-oracle-database-table)
+- [Python Program to Calculate Factorial of a Number](https://cracklogic.com/calculate-the-factorial-of-a-number-using-python-different-function-cracklogic/?utm_source=rss&utm_medium=rss&utm_campaign=calculate-the-factorial-of-a-number-using-python-different-function-cracklogic)
+- [Python Pattern Based Program](https://cracklogic.com/python-pattern-based-program/?utm_source=rss&utm_medium=rss&utm_campaign=python-pattern-based-program)
+- [Most Widely used Random functions in Python](https://cracklogic.com/most-widely-used-random-functions/?utm_source=rss&utm_medium=rss&utm_campaign=most-widely-used-random-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... More Blog Atricles](https://cracklogic.com/)
