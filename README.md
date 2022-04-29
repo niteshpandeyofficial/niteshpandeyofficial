@@ -20,7 +20,7 @@ I’m interested in building Machine Learning models for Real World use cases.
 - [Course- 3 SkillUp AI Certification assessment Answer-2021](https://www.youtube.com/watch?v=UT0jsJpqvyE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-▶ [... More Youtube videos](https://www.youtube.com/channel/UC31sz4wzeH-6M5aaqEE-hyQ)
+▶ [... More Youtube Videos](https://www.youtube.com/channel/UC31sz4wzeH-6M5aaqEE-hyQ)
 
 ---
 
@@ -36,6 +36,12 @@ I’m interested in building Machine Learning models for Real World use cases.
 
 ▶ [... More Blog Atricles](https://cracklogic.com/)
  
+ ---
+ ## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshpandeyofficial&hide=java,html,css,shell,Procfile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshpandeyofficial&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **niteshpandeyofficial/niteshpandeyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
