@@ -27,9 +27,10 @@ I’m interested in building Machine Learning models for Real World use cases.
 📙 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ▶ [... More Blog Atricles](https://cracklogic.com/)
+ 
  
 <!--
 **niteshpandeyofficial/niteshpandeyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
