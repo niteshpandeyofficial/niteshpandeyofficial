@@ -12,11 +12,11 @@ I’m interested in building Machine Learning models for Real World use cases.
 📺 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Uploading image in S3 bucket using Amazon API Gateway](https://www.youtube.com/watch?v=LLjWSiEBGc0)
 - [vaex library python](https://www.youtube.com/watch?v=zq19xERcj98)
 - [Connect Aws RDS using MySQL Workbench](https://www.youtube.com/watch?v=zjtqW8cMMuU)
 - [Amazon Simple Queue Service](https://www.youtube.com/watch?v=Fyur02xvMJ0)
 - [Course 4 and 5 SkillUp AI Certification assessment Answer-2021](https://www.youtube.com/watch?v=JqjEx-aU9EE)
-- [Course- 3 SkillUp AI Certification assessment Answer-2021](https://www.youtube.com/watch?v=UT0jsJpqvyE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [... More Youtube Videos](https://www.youtube.com/channel/UC31sz4wzeH-6M5aaqEE-hyQ)
