@@ -46,6 +46,8 @@ I’m interested in building Machine Learning models for Real World use cases.
 ---
 
  ## &#x1f4c8; My GitHub Stats
+ 
+ ![](https://komarev.com/ghpvc/?username=your-niteshpandeyofficial&style=plastic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshpandeyofficial&hide=java,html,css,shell,Procfile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
