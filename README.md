@@ -12,8 +12,8 @@ I’m interested in building Machine Learning models for Real World use cases.
 📺 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Uploading image in S3 bucket using Amazon API Gateway](https://www.youtube.com/watch?v=LLjWSiEBGc0)
-- [vaex library python](https://www.youtube.com/watch?v=zq19xERcj98)
+- [How to Upload an Image to Amazon S3 Using AWS API Gateway |Step by Step Instruction| AWS](https://www.youtube.com/watch?v=LLjWSiEBGc0)
+- [The Shocking Secret Behind Vax Python Library|Machine Learning |Processing big data within second](https://www.youtube.com/watch?v=zq19xERcj98)
 - [Connect Aws RDS using MySQL Workbench](https://www.youtube.com/watch?v=zjtqW8cMMuU)
 - [Amazon Simple Queue Service](https://www.youtube.com/watch?v=Fyur02xvMJ0)
 - [Course 4 and 5 SkillUp AI Certification assessment Answer-2021](https://www.youtube.com/watch?v=JqjEx-aU9EE)
