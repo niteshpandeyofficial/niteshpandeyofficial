@@ -49,7 +49,7 @@ Building production-ready AI applications with Machine Learning, LLMs, RAG, and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshpandeyofficial&hide=java,html,css,shell,Procfile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshpandeyofficial&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nitesh's GitHub stats](https://github-stats-extended.vercel.app/api?username=niteshpandeyofficial)](https://github.com/stats-organization/github-stats-extended)
  
 <!--
 **niteshpandeyofficial/niteshpandeyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
