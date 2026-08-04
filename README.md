@@ -1,6 +1,6 @@
 ### Hey !! <img src="https://github.com/MartinHeinz/MartinHeinz/blob/87592a64404c2fdf98772f6844f4872986a581c7/wave.gif" width="30px">   I am Nitesh Pandey !
 ---
-I’m interested in building Machine Learning models for Real World use cases.
+Building production-ready AI applications with Machine Learning, LLMs, RAG, and Agentic AI.
 ---
 :toolbox: Toolbox
 
